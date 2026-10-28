@@ -1,4 +1,4 @@
-# PhishGuard 🛡️
+# PhishGuard
 
 **PhishGuard is a lightweight URL risk analyzer built with Python and FastAPI.**
 
